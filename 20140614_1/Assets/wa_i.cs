@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class wa-i : MonoBehaviour {
+public class wa_i : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
